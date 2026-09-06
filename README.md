@@ -284,6 +284,6 @@ If you find an issue or have an idea for improvement, feel free to create an iss
 
 ## 👨‍💻 Author
 
-**Prachet**
+**Tushant Singh**
 
 If you have any questions or suggestions regarding the project, feel free to get in touch.
